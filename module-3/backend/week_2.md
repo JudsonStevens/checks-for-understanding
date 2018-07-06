@@ -18,7 +18,7 @@ Some of these questions are from this week, some are from previous weeks, and so
 #### Self Assessment  
 Rate yourself on the following scale.  
 4 I know and understand all these concepts and did not have to look anything up  
-3 I know and understand most of these concepts but had to look something up  
+**3 I know and understand most of these concepts but had to look something up**
 2 I am uncertain about some of these concepts and had to look some things up ^^  
 1 I am feeling lost about with these concepts and had to look many things up ^^  
 
